@@ -1,0 +1,311 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A case for the city-spectacles</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81261</idno>
+            <idno type="STC">Wing C867</idno>
+            <idno type="STC">Thomason E422_7</idno>
+            <idno type="STC">ESTC R204725</idno>
+            <idno type="STC">ESTC R204790</idno>
+            <idno type="EEBO-CITATION">99864252</idno>
+            <idno type="PROQUEST">99864252</idno>
+            <idno type="VID">130635</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81261)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 130635)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 66:E422[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A case for the city-spectacles</title>
+               </titleStmt>
+               <extent>[2], 6, 9-16 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeere 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Jan. 6th 1647"; the "8" in the imprint has been crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>London (England) --  Politics and government --  17th century --  Humor --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:130635:1" rendition="simple:additions"/>
+            <p>A CASE FOR The City-Spectacles.</p>
+            <q>
+               <l>When we were well at eaſe and could not ſee't,</l>
+               <l>But ſought I know not what, I think 'tis meet</l>
+               <l>Our Noſes ſhould be Spectacled to make's ſee better,</l>
+               <l>And read our troubles in a larger Letter:</l>
+               <l>Now Gentlemen take it not in diſgrace,</l>
+               <l>If I do put your Spectacles in a Caſe;</l>
+               <l>For if they fall, you'l breake them ten to one,</l>
+               <l>And then you muſt buy new of <hi>Turlington:</hi>
+               </l>
+               <l>As for the hornes they'l ſerve for nothing after,</l>
+               <l>But to ſhew <hi>Fentons</hi> fortune and more laughter.</l>
+               <l>Both well preſerv'd help our dim purblind eyes</l>
+               <l>To ſee afreſh our printed miſeries.</l>
+            </q>
+            <p>Printed in the Yeere 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:130635:2"/>
+            <pb n="1" facs="tcp:130635:2"/>
+            <head>A CASE FOR The City-Spectacles.</head>
+            <p>THe City Spectacle-maker no doubt is an honeſt man, and a good workman, and hath a ſpeciall inſight in his Trade; yet ſome flawes I find in the horne-worke, and a crack or two in the ſight, which I needs muſt have mended before I put them up into my Caſe.</p>
+            <p>He begins well, and fronts his Treatiſe with a pious Pro<g ref="char:EOLhyphen"/>logue, as the zealous noſe upon which he intends to hang the ſubſtance of his enſuing Diſcourſe. And firſt he deſcribes the preſent face of things by way of Compariſon, <hi>ſtc parvis componere magnaſolebam:</hi> In an Arithmeticall way he deci<g ref="char:EOLhyphen"/>phers out unto us the Sects and Hereſies of theſe times in a conjuncture, and the totall ſum I find is in all but ten, leaving out the principall Mountebanks, <hi>verbi gratiâ,</hi> Seekers, Shakers, Excize-men, and the damnable Sect of Committee-men, who hold the taking away of mens lives, and Lands, and Goods
+<pb n="2" facs="tcp:130635:3"/> by an Apocryphall Ordinance; a Tenent which neither St. <hi>Au<g ref="char:EOLhyphen"/>guſtine, Jerome, Chriſoſtome,</hi> nor the <hi>Counſell of Nice</hi> ever heard of, beſides thoſe Shakers that are troubled with Enthuſiaſtick divine Agues, and ſpeak idly in their hot fits. Then he reckons up in a Catalogue the deſigne of <hi>Nye, Goodwin, Symſon,</hi> and the reſt of thoſe State-Scrupins, with the bleſſed Generation of pimping Pamphleters, all caſting their heads together (like ſo many Jewells) to make a Molten Calſe of <hi>Cromwell,</hi> and ſet him up up for the ſole bringer out of Aegypt; when as in truth he hath many victories fathered upon him which good man, he was never guilty of. His Copper noſe began to ſound a Retreat at Maſton-Moor, but <hi>Craford</hi> took him by the care and wrung him a peg higher, and ſet him to the tune of <hi>Loth to depart.</hi>
+            </p>
+            <p>He tells us, Adjutant Generall <hi>Gray</hi> was turned out of all onely for looking on the City Remonſtrance, that is a baſe lie; for beſides that, he was acquainted with Major-Generall <hi>Skippon,</hi> and was a Scot and an honeſt man, and once was ac<g ref="char:EOLhyphen"/>cuſed of being drunk, which when they could not prove, by a Metaphor, they atteſted that they ſaw him reeling to the Pres<g ref="char:EOLhyphen"/>byterian party, and ſo unfit for the company of ſober In<g ref="char:EOLhyphen"/>dependents.</p>
+            <p>Next he brings in the new elect Members of the Army, and begins to ſcandalize thoſe Gentlemen with a matter of truth: He would not ſo deſpiſe Colonell <hi>Baxter</hi> for his rings, thimbles, and bodkins, if he knew the worth of them as well as Mr. <hi>Peters</hi> does, who handſomely perſwaded the zealous ſiſters of the Aſſociate Counties out of their Thumb-rings, Thimbles and Bodkins in the beginning of theſe troubles. As for <hi>Watſon</hi> the Scout-Maſter Dormant in a Field Argent, I muſt needs confeſſe he is a worchy Bull-Finch, that hath con<g ref="char:EOLhyphen"/>ſtantly whiſtled theſe three yeares to the tune of ſeven pound <hi>per diem:</hi> would I had but halfe the proportion for making Spectacle Caſes. and although Colonell <hi>Hewſon</hi> was a ſhooe<g ref="char:EOLhyphen"/>maker in times paſt, what then? now he is ſet up in the in<g ref="char:EOLhyphen"/>ſtep, and all his conditions new vampt, and walkes uprightly according to the new tranſlation. Indeed I cannot but ſay the Specctacle-maker hath given a true copie of Colonel <hi>Harriſon</hi>
+               <pb n="3" facs="tcp:130635:3"/> the Quondam Clerk, the world is well amended with him, ſince his Bonds are turned into Commiſſions, his Pen into a Piſtoll, and his Inkhorne into a Mortar Piece: but how he comes to deſerve all this, <hi>nos quidem ignoramus,</hi> that he got in<g ref="char:EOLhyphen"/>to the ſaddle and advanced himſelfe by a fore-game, called Preoccupation, <hi>Noverint <g ref="char:V">Ʋ</g>niverſi:</hi> But how and what he gets by an after-game called, <hi>Corpus cum Caudâ,</hi> no man can know but by a <hi>Scire facias,</hi> alias <hi>Fiery facies.</hi>
+            </p>
+            <p>Next to him our Operator brings in <hi>Pride</hi> (the Embleme of the Army) upon his Dray, this was he that ſwell'd like puffe<g ref="char:EOLhyphen"/>paſt in his March through the City, and fomed at the Boung<g ref="char:EOLhyphen"/>hole, as who ſhould ſay,
+<q>
+                  <l>Here comes ſtrong beere, the Citizens to quell,</l>
+                  <l>A Dray-man boyl'd up to a Colonell:</l>
+                  <l>But yet for all his Militarie Art,</l>
+                  <l>At Nazeby fight he let a Brewers Fart,</l>
+                  <l>Which did promote the working of the Barme,</l>
+                  <l>And made him run out of the reach of harme;</l>
+                  <l>Some ſay, towards the Windmill, where he found</l>
+                  <l>Many great Officers buried above ground:</l>
+                  <l>By which he ſcap't a furious aſſault,</l>
+                  <l>And parl'd with th' Miller 'bout the price of Malt.</l>
+               </q> O what a litter of Trojan Puppies were got into the belly of that wooden Beaſt! Had <hi>Don Quixot</hi> found out that neſt of young Gyants, it would have eternally confirm'd his wild opi<g ref="char:EOLhyphen"/>nion, and <hi>Sancho</hi> himſelfe would have been convinced, and ſwore it a Shee-Gyant big with Puppy. I cannot blame <hi>Ham<g ref="char:EOLhyphen"/>mond</hi> for going thither to combe out his Perriwig, and pow<g ref="char:EOLhyphen"/>der it with flower; Gunpowder would have ſpoil'd it: and the reſt (no doubt) they had tolerable excuſes. Some impute the inſtability of thoſe giddie braines to this one hanſell: I am not of that opinion, for my Lord <hi>Wharton</hi> went the cleane contrary way, and yet is troubled with the ſame diſeaſe.</p>
+            <p>As for Col. <hi>Okey</hi> the Taylour, I took him to be well deſcen<g ref="char:EOLhyphen"/>ded, and to derive his Pedigree from <hi>John a Leyden,</hi> and is a man of faſhion, and gets more by Liſts in one day, then in a yeere heretofore.</p>
+            <p>In the next place the Spectacles tell us of the deſigne of the
+<pb n="4" facs="tcp:130635:4"/> reformed Jeſuites, <hi>Dell, Peters, Erbury,</hi> &amp;c. to poyſon the whole Kingdome with errors. Here the Spectacles ſhew us no more then we ſaw before, juſt like thoſe that M. <hi>John Turlington</hi> ſold to M. <hi>Lambert,</hi> without Glaſſes. Who would not at the firſt ſight (without a Comment) take <hi>Peters</hi> for a Buffoone, a Squib, a <hi>Hocus Pocus,</hi> a Thimble Catcher, a Pulpit Baboone, an <hi>ignit fatuus?</hi> He is a meere dunce in Phyſiognomy, that cannot ſpell Jeſuite out of <hi>Dells</hi> aſpect; and he that ever ſaw <hi>Saltmarſh,</hi> and could not gueſſe him to be <hi>Cromwells</hi> Trumpeter, ſurely he never ſaw the picture of the foure Winds. <hi>Erbury</hi> the Seeker looks downe on the ground like a Mole-catcher, and ſtrikes people blind with errors, and has ſix pence a piece (for every one that he catches) of the Treaſurer. I will aſſure you, a very ſubtill trade.</p>
+            <p>To proceed; our Informer here tels us of nine wayes how the City was betrayed, and here the Glaſſe multiplies; for I can tell you in two words how it came about, the Army was <hi>wiſe,</hi> and the City was <hi>otherwiſe;</hi> a tame thing, a houſe Spar<g ref="char:EOLhyphen"/>row, a tame Squirrell with a gold chaine: what violence could ever have raviſht her, had ſhe kept her ſelfe cloſe together, and (according to the cuſtome) cried out to the neigbouring Counties? I ſay, theſe men-Fornicators that have violated all her younger ſiſters, with all the Countrey Milkmaids and Da<g ref="char:EOLhyphen"/>ry Wenches in the Kingdome, yet they never have entred here: But now ſhe has loſt her vaile, and what is become of her cre<g ref="char:EOLhyphen"/>dit? 'tis pawn'd in the Tower. Now to the purpoſe.</p>
+            <p>In the reſidue of his Diſcourſe he juggles, and deſcribes the ſhuffling of the Cards; Munſterians ſhuffled in, honeſt men ſhuffled out: The man means well, and ſpeaks truth in the ge<g ref="char:EOLhyphen"/>nerall, but warpes in ſome particulars. <hi>Tichburne</hi> indeed does looke like an Ale-bury or a Lemmon poſſet, but may not his Yard by a Trope ſpirituall be turn'd into a Truncheon? and may not his Counters in time grow up to Breaſt-works and Fortifications, and all his coarſe linnen be made into tents? I cannot condemn the Parliament or Army for ſending our Lord Mayor, <hi>Bunce, Langham,</hi> and the reſt into the Tower; who bid them be rich? Were they as poore as I am, their carkaſſes would never have paid the Tower Fees. But they have ſerv'd
+<pb n="5" facs="tcp:130635:4"/> the Parliaments turn; and Turkiſh Juſtice being now moſt in faſhion, the beſt reward they can expect from <hi>Duke D'Aloa, Don Say &amp; Seale,</hi> muſt be a bowſtring or a mallet: Perhaps their ſtarres may help them to the favour to be let out at the back-doore in their ſhirts.</p>
+            <p>Now here he begins to ring the changes, and in the firſt place he omits the great Bell, had we not a Lord Mayor chan<g ref="char:EOLhyphen"/>ged? A good ſound Bow Bell for a braſſe Candleſtick, a grave ſage Citizen for a woodden Tobacco-ſtopper with a face upon it, one whoſe eſtate goes upon Crutches, elſe why ſhould he within this moneth take up 1000. l. at 7. l. <hi>per cent.</hi> to eek out out his Mayoralty, beſides the Chriſtmas frugality into the bargaine? But I cannot but ſay he is a valiant Com<g ref="char:EOLhyphen"/>mander, and did the other day behave himſelfe couragiouſly a<g ref="char:EOLhyphen"/>gainſt the Roſemary Idoll in Cornhill: but his horſe taking Roſemarie and Bayes in the whipping ſenſe, was tranſported with paſſion, and ran with his Worſhip into Birchen Lane, and like a horſe (as he was) as void of underſtanding as his Maſter, would not be perſwaded by his Miniſters the Sergeans to come back from his reſty opinion, ſo that Mr. Mayor was forced to march on foot to the battell, where he routed the enemy, to the great applauſe of all the Apprentices.</p>
+            <q>
+               <l>
+                  <hi>And ſo he got himſelfe eternall praiſe,</hi>
+               </l>
+               <l>
+                  <hi>With Ivy, Holly, Roſemary and Baies:</hi>
+               </l>
+               <l>
+                  <hi>Then march'd he home with his renowned force,</hi>
+               </l>
+               <l>
+                  <hi>Which ſhall yet flouriſh like a green Bay-horſe.</hi>
+               </l>
+            </q>
+            <p>So I tooke my leave of his Worſhip, and from the hemne of his Gowne I deſcend to the skirts of the Buffe Jacket, where I muſt ſit a while and enquire, whether my Spectacles ſee equal<g ref="char:EOLhyphen"/>ly on both ſides.</p>
+            <p>
+               <hi>Wilſon</hi> and <hi>Camfield</hi> are gallant men, and know what be<g ref="char:EOLhyphen"/>longs to beef and cabbade as well as any of the old <hi>Mili<g ref="char:EOLhyphen"/>tia;</hi> and for Captain <hi>Petitoes,</hi> you can expect no great va<g ref="char:EOLhyphen"/>lour of him, ſince he is all feet, and hath a naturall inclination to runne: What though Colonell <hi>Roe</hi> kept a Bull Ordinary, and made his Regiment pay well for the ſame, cannot you bee content to fare wel for your money, but muſt cry Roaſtmeat?</p>
+            <pb n="6" facs="tcp:130635:5"/>
+            <p>In that which thou calleſt <hi>Juxon</hi> ſwearing fantaſtick foole, I ſhall deſire thee to turne ſwearing into ſqueaking; for thoſe that have both their eares to heare him, ſay he ſpeaks like the hinges of a ſtarv'd buttery doore that whines for greaſe. All his Oaths before they can be uttered, dwindle into lies.</p>
+            <p>Lievtenant-Colonell <hi>Hewſon</hi> was unworthily put out, and there indeed they put by a Man to put in a <hi>Manby,</hi> of whom, becauſe he is a Scrivener, I will ſay nothing, leaſt being ſome<g ref="char:EOLhyphen"/>what skilled in the Law, he may bring an action of the Caſe againſt me, and to eſcape a ſcourging, I will waſh my hands of <hi>Hayes:</hi> yet I am reſolved to have a fling at <hi>Cuſhen,</hi> that Merchant Taylor <hi>Cuſhen,</hi> that <hi>Floxi, nauſi, nihili, pili,</hi> and ſo let him go to the Army where he is much in uſe, ſpurn Cuſhen being the onely recreation after dinner and ſupper with the Grandees, inſtead of throwing of Dice.</p>
+            <p>In the blew Regiment he brings in <hi>
+                  <g ref="char:V">Ʋ</g>nderwood</hi> the Tobac<g ref="char:EOLhyphen"/>co-ſeller, who lookes as if he fed on nothing but Mundungo, and the ſtalkes grew out at his chin, take away <hi>
+                  <g ref="char:V">Ʋ</g>nder</hi> and there remaines <hi>Wood,</hi> adde <hi>Cocke,</hi> and that will ſpell his beha<g ref="char:EOLhyphen"/>viour at <hi>Abbington;</hi> for there like a bird of valour hee did moſt couragiouſly hide his Cockſcombe.</p>
+            <p>All that you can alledge againſt Colonell <hi>Harriſon,</hi> is that he loves Pie and Cuſtard, I ſay 'tis Pap and Cuſtard, and good reaſon too, for he can eat no other meat, ſince his teeth were beat out in a Banquet Battell with ſugar plums. Sir, you are much over-ſeen in medling with <hi>Eſtwicke,</hi> for ſince he hath commenc'd Lord, he looks like the Devill over Lincoln, and walks foure ſtories high, and makes nothing to take the wall of Sir <hi>John Oldcaſtle.</hi>
+            </p>
+            <p>I wonder you dare be ſo hardy as to meddle with <hi>Fenton</hi> the Button-maker, <hi>cornu ferit ille, caveto:</hi> you doe not tell the ſtory of him right, for he firſt hid himſelfe in the Barne, where his arſe made buttons, while his wife made loops at home, and upon his retreat a Cavalier (to ſet him up in his trade with credit) beſtowed on his Worſhips taile a button of lead.</p>
+            <q>
+               <l>
+                  <hi>And to augment the feſt'ring of the ſore,</hi>
+               </l>
+               <l>
+                  <hi>Whilſt he was ſhot behind, his wife was ſhot before.</hi>
+               </l>
+               <pb n="9" facs="tcp:130635:5"/>
+               <l>
+                  <hi>But like a carefull Husband full of pitty,</hi>
+               </l>
+               <l>
+                  <hi>Hee'd have her wound ſearch'd by a Committee;</hi>
+               </l>
+               <l>
+                  <hi>Who did at laſt conclude her credit mortall,</hi>
+               </l>
+               <l>
+                  <hi>Becauſe the Shot had pierc'd the Vena Portall:</hi>
+               </l>
+               <l>
+                  <hi>And ſo his Veſſell prov'd to be a Nullidge,</hi>
+               </l>
+               <l>
+                  <hi>Being unfortunately ſplit at Dullidge.</hi>
+               </l>
+            </q>
+            <p>Next <hi>Blackwell</hi> is excepted againſt: <note place="margin">He looks in hi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Scarlet Coat like a jack a Le<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> new trim'd.</note> I am not well ac<g ref="char:EOLhyphen"/>quainted with the man; but if I knew him as well as his Name-ſake, the Maiden Champion, I would ſay hee were a Coward. I have heard ſay when he was in <hi>Cornwell,</hi> the Cavaliers threatned if they caught him they would geld him: after which (to ſave thoſe ſmall evidences of his Manhood) hee could never be got out upon what Service ſoever.</p>
+            <p>It ſeemes you ſtumble at Stone; yet you cannot but ſay he is an honeſt man: All that you can object againſt him, is, that he is as unfit to be a Commander as to build <hi>Pauls;</hi> and in my minde that Compariſon makes for him, for how can it be built without it? But Doctor <hi>Burgeſſe,</hi> that ninth Pin of Presbytery, is much of that opinion; and therefore has converted thoſe prophane Quarries to pave his Kitchin, and ſold the reſt to buy Printed Sermons to build up the Spi<g ref="char:EOLhyphen"/>rituall Temple with his long-winded <hi>Ciceronian</hi> Tone. Oh this 400 l. <hi>per annum</hi> is better then green Ginger and Anni<g ref="char:EOLhyphen"/>ſeeds to ſtrengthen the Lungs.</p>
+            <p>The next man that is accuſed for inſufficiency, is one <hi>White,</hi> in exchange of one <hi>Potter.</hi> This <hi>Potter</hi> is accuſed for making the <hi>Spectacles,</hi> becauſe it ſeemes his valour at <hi>Cheriton</hi> Downe is mentioned but modeſtly. I do not think he was the man, though his eyes are ſo little when he laughes that one would thinke he might well need Spectacles. O<g ref="char:EOLhyphen"/>thers ſay, Captaine <hi>Haynes</hi> the Scrivener made them, and ſweares by theſe Preſents be it knowne: Others <hi>Burrowes</hi> the Stationer; and ſay hee found Pen, Inke, and Paper, <hi>Haines</hi> coppied it out, and one <hi>Lambe</hi> (that ſtole a twelve-moneths wit at <hi>Cambridge</hi>) made it. But I know what I
+<pb n="10" facs="tcp:130635:6"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="11" facs="tcp:130635:6"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="10" facs="tcp:130635:7"/> know, and I know Maſter <hi>John Turlington</hi> too, that ſtout honeſt Blade, and yet it was not he neither, who e're it was: I ſay as I ſaid before, hee was a good Workeman, and they fit the Noſe of the Militia very well, and ſhew them in a full Character the errours of their laſt E<g ref="char:EOLhyphen"/>dition.</p>
+            <p>O yes, if there be any one, Towne or Countrey, Inde<g ref="char:EOLhyphen"/>pendant, Presbyteriall, Malignant, or Neuter, that can tell tidings of that notable knave that made the City Spectacles, let them or any of them bring him (if they can) to <hi>Signior povero Parlator</hi> at the Signe of, This Houſe is to be let in Tower-ſtreet, or at the Hornes point blanke againſt the North doore of <hi>Pauls,</hi> and hee ſhall bee well pay'd for his paines.</p>
+            <p>I ſhould end here, but I muſt cover my caſe with two or three Stories.</p>
+            <p>And firſt I will begin with that Arch-Presbyteriall Knight, Sir <hi>Peter Wentworth,</hi> a great, enemy to Indepen<g ref="char:EOLhyphen"/>dency. This Sir <hi>Peter de Buckingham-ſhire</hi> being very vi<g ref="char:EOLhyphen"/>gilant againſt the Incurſions of the Enemy there, exhorted his Neighbours and Countrey-men to raiſe ſix hundred Horſe and Dragoones, and ſend them to him with forty ſhillings a man in their Furſe, and he would ſecure the Countrey. When they were come, he made an Oration to them of the danger of the Service for ſuch young freſh-wa<g ref="char:EOLhyphen"/>ter Souldiers to undertake; beſides the neceſſity of their oc<g ref="char:EOLhyphen"/>caſions which call'd them home, being Harveſt time, and the care that hee ſhould have to provide ſufficient Riders for them, ſo that they would contribute every man his forty ſhillings and. Armes: His gaping Auditors were ſcone ex<g ref="char:EOLhyphen"/>horted to retreat, and he moſt manfully led his Cavalrie to Smithfield, where his Worſhip deſign'd to make Horſes cheap by glutting the Market. I will aſſure you a brave piece of State-policy as ever I heard of.</p>
+            <p>Secondly, to divide my Text, I will adde one of the con<g ref="char:EOLhyphen"/>trary Faction, the Knight of the burning Peſtle, Sir <hi>Henry Martin,</hi> that Cony-catching Senator, that in a Dearth of
+<pb n="11" facs="tcp:130635:7"/> fleſh raviſht the Noſſell of a Candleſtick, and ſpoiled the ſquinting Maiden-head of a Candles end, which has ſo en<g ref="char:EOLhyphen"/>flamed his Cap of Maintenance, as ever ſince he ſeekes to quench it in every Puddle. One of which the other day he had got not farre from the Exchange; and ſcarce had hee tun'd his Inſtrument, but in comes the pretended Husband, and ſlackens his reſolutions with two or three handſome Oathes: What offer to abuſe my wife? &amp;c. To bee ſhort, our Anarchicall Reformer choaks the flame of his Paſſion with ten Pieces in hand, and a Bond for twenty or thirty more. So he marcht away with Bullet in the mouth, Match cockt, Colours flying, with as honourable compoſition as <hi>Nat. Fines</hi> did out of Briſtoll.</p>
+            <p>In the next place I muſt needs unkennell a neſt of Inde<g ref="char:EOLhyphen"/>pendant Cowards and Vermine. <note place="margin">Sanders.</note> And firſt I pluck out by the eares <hi>Sanders</hi> (that Diminiture of <hi>Alexander</hi>) Cap<g ref="char:EOLhyphen"/>taine under Sir <hi>John Gell:</hi> The greateſt act of Valour that he ever did, was to ſhoot a Gentleman through the Arme, and cut him after he was taken Priſoner and diſarm'd; when he was to goe upon any Service, he had a trick to make his Souldiers Mutiny; which hee did notoriouſly, when hee ſhould have gone with Colonell <hi>Gell</hi> to <hi>Naisby</hi> fight. His Officers are like him: One <hi>Hope</hi> who has forfeited his name by his ill behaviour. This fellow plundered moſt ſa<g ref="char:EOLhyphen"/>crilegiouſly a Communion Cup (as I heare) and was taken in the act, and pull'd out of his Breeches,</p>
+            <p>
+               <note place="margin">Barton.</note> Another who is now Major <hi>Barton,</hi> a <hi>Quandam</hi> Mini<g ref="char:EOLhyphen"/>ſter, who ſeeing a great Party of the enemies lay downe their Armes, yet dare not approach till hee gave them ſo much time as to recover their Courage and their Armes to<g ref="char:EOLhyphen"/>gether.</p>
+            <p>Sir <hi>William Breerton</hi> that Tooth-Muſter-monſter (the greateſt Cowards have longeſt Teeth, as curſt Cowes have ſhort hornes) I ſay Major Generall Tooth being once in fight, together with Sir <hi>John Gell</hi> on <hi>Hopton</hi> Heath, whee<g ref="char:EOLhyphen"/>led about and left Sir <hi>John</hi> to hot ſervice, which hee per<g ref="char:EOLhyphen"/>formed with ſuch valour as gain'd the day, (no thanke to Sir
+<pb n="12" facs="tcp:130635:8"/> 
+               <hi>William</hi>) there was ſlaine the Earle of <hi>Northampton,</hi> and foure or five hundred more: after which Sir <hi>William</hi> ap<g ref="char:EOLhyphen"/>peares againe, and makes a freſh onſet upon the dead bo<g ref="char:EOLhyphen"/>dies, and plunders them of their Cloathes, and Sir <hi>John</hi> of his honour; for the credit of the whole buſineſſe was laid upon Sir <hi>William.</hi>
+            </p>
+            <p>I cannot omit a memorable paſſage about <hi>Cromwell,</hi> the Devills Gro<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me, that turnes Churches into Stables; the firſt Church he ſo converted, in the entrance his horſe roſe with him, and <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ckt his prophane skull againſt the top of the doore, that he fell downe dead for the time, which was all the hurt he ever caught ſince theſe Warres, except a W<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d which a Souldier of his gave him as hee was run<g ref="char:EOLhyphen"/>ning away at the Battell of <hi>Yorke.</hi> Couſin <hi>Oliver,</hi> the next time thou watereſt thy Horſe at the Font, I pray let him bee Chriſtned <hi>Bucephalus,</hi> in relation to <hi>Alexander</hi> his Maſter, and invite <hi>Martin</hi> and <hi>Allen</hi> to bee God<g ref="char:EOLhyphen"/>fathers, and my Lady <hi>Say</hi> and Miſtris <hi>Harriſon</hi> to bee God<g ref="char:EOLhyphen"/>mothers, that thy Palfrey, as well as thy ſelfe, may bee in a capacity to be Sainted.</p>
+            <p>I had almoſt forgot the Independent deſigne, to ſplit <hi>Eſſex</hi> in peeces in the Corniſh buſineſſe. Firſt they endea<g ref="char:EOLhyphen"/>voured to ſet him and Sir <hi>William Waller</hi> at difference at <hi>Iſlip.</hi> Then upon the Generalls march up higher after the taking of <hi>Taunton, Weymouth,</hi> and the reliefe of <hi>Barnſta<g ref="char:EOLhyphen"/>ble,</hi> it was voted at a Councell of Warre not to relieve <hi>Pli<g ref="char:EOLhyphen"/>mouth,</hi> but to prevent the conjunction of the Kings Forces with Prince <hi>Maurices:</hi> upon which the Faction writ Let<g ref="char:EOLhyphen"/>ters to their friends at <hi>London,</hi> and poſſeſſe them that the old Souldiers had a mind to lengthen out the Warre, and to returne without the reliefe of <hi>Plimouth,</hi> or reducing the <hi>Corniſh:</hi> upon which they made uſe of my Lord <hi>Roberts,</hi> (a man that will go on pilgrimage to the devill for money, for it comes by kind) I ſay, they urged him with their de<g ref="char:EOLhyphen"/>ſires f<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r <hi>Plimouth,</hi> and <hi>Cornwell,</hi> which he was eaſily per<g ref="char:EOLhyphen"/>ſwaded to; and ſo another Councell of Warre being cal'd, it was carried by one vote to march that way, and ſo they
+<pb n="13" facs="tcp:130635:8"/> were caught in a Purſe net, and neither <hi>Mancheſter,</hi> who who was commanded, nor Major <hi>Krane</hi> ſuffered to come with any reliefe; ſo they were forced either to hazzard all by an unequall match, or make ſuch Compoſition as was much diſadvantagious. The meane time the Cony-Catchers had put a ſelfe-denying Ordinance in pickle, with ſuch pre<g ref="char:EOLhyphen"/>ty evaſions as might let out ſuch as they intended to uſe, be<g ref="char:EOLhyphen"/>ing their owne Creatures, and Coope up the contrary Fa<g ref="char:EOLhyphen"/>ction; Juſt ſuch another thing have they made of the Cove<g ref="char:EOLhyphen"/>nant; Their owne vermine can creepe in and out of it like a Louſe through an oylet-hole: but ſuch poore <hi>Royaliſts</hi> as have either money or credit to looſe, muſt either wiredraw their conſciences through it, or be cruſh't to peeces by it. A very Mouſe-trap, a pitfall to catch whom they pleaſe in; Or elſe why muſt that Reverend Father, the Biſhop of <hi>Ar<g ref="char:EOLhyphen"/>magh</hi> be fifted with it, and winnowed out of his place at <hi>Lineolnes-Inne?</hi> What Faction it was that mov'd it firſt I cannot tell certainely, but I heare that <hi>Haſlerig</hi> firſt opened his mouth and ſpake: That Parliament Tinder boxe, that ſpits nothing but fire and brimſtone againſt every one that hath more wit or honeſty then himſelfe; And eminent <hi>Ful<g ref="char:EOLhyphen"/>ler</hi> is in the ſame condition of ſuſpenſion, either ſwallow the toſted Cheeſe, or not Preach. I will aſſure you the Parlia<g ref="char:EOLhyphen"/>ment is a good Logitian to make ſuch a <hi>dilemma</hi> as none can read whom they pleaſe to preſſe it upon. In the meane time they can connive, nay, countenance any man that can deviſe any new thing to puzzle the peoples heads, juſt like the deſigne of the holy War by which the Pope got ſo much ground of his neighbours, and all out of a pretence of the Cauſe of Religion. <hi>Divide &amp; impera:</hi> for if the people had been of one mind, they would never have ſuffered them<g ref="char:EOLhyphen"/>ſelves to be hackneyed from one ſtage to another; Firſt they fight only for Religion, then they muſt change ſaddles, and then it is for our Liberties, then they muſt ſtand to the Nationall Covenant, another time they muſt uphold the Army, the Parliaments Choppines: For now ſhe goes juſt
+<pb n="14" facs="tcp:130635:9"/> like a <hi>Venetian</hi> Curtizan, dreſt with all the Artifice that po<g ref="char:EOLhyphen"/>licy can deviſe, and ſupported by a Musket on the one ſide, and a Pike on the other; like juglers, they have fiſgigges to amaze and dazzle the people with ſtrange new lights; ſome of which are th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ir Emiſſaries, <hi>Dell, Cates, Nye, Randall, Erbury, Sympſon, Beſt,</hi> that boaſtly Blaſphemy, with ſuch like Catamountaines that go Catterwaling up and downe the Kingdome, to teach people to ſcratch out one anothers eyes. 'Twas a worthy act of Mr Mayor this Chriſtmas to reſtrain honeſt men from Preaching, under that notion only, becauſe Royalliſts: I do remember ſince it was an Indepen<g ref="char:EOLhyphen"/>dent principle, that Liberty of Conſcience extended as farre as hell, did it not impeach the publique Peace of the Com<g ref="char:EOLhyphen"/>mon-wealth? I would faine know what Breach of Peace it could be to Preach an Orthodoxe Sermon on that day, al<g ref="char:EOLhyphen"/>though it only were to divert the people from worſe acti<g ref="char:EOLhyphen"/>ons; For I obſerve every one ſhut his ſhop doores, ſome out of feare, others out of reſpect. But to draw to an end, I ſhall make but one or two obſervations more; And I firſt begin with the buſineſſe of <hi>Ireland,</hi> the delay of its reliefe is a great miſtery, and no honeſt man can underſtand it. The whole pretence of the Army not long ſince was the re<g ref="char:EOLhyphen"/>liefe of <hi>Ireland,</hi> and the taking away Taxes, and Exciſe, which gained much upon the City and Country, but now I know not what deſigne being brought about, they do not only neglect, but obſtruct both. Before they got the King into their poſſeſſion, they gave it out that he was a weake man and unfit to rule, and their only ayme was to take him away from the wicked, but now they have him in their poſ<g ref="char:EOLhyphen"/>ſeſſion, they cry he is ſo ſubtle they cannot truſt him, and too wiſe to governe; ſo you may ſee, whether young or old, wiſe or ſimple, they are reſolved to have no ſuch thing as a King, except they have one revealed from above; Like the Dog in the manger, they will neither rule themſelves well, nor let no body elſe. But in the next place, I obſerve they have made an Ordinance, to let us underſtand they do now give us free liberty to build an Hoſpitall generall, for all the
+<pb n="15" facs="tcp:130635:9"/> Beggers they have made, and truly it was well thought up<g ref="char:EOLhyphen"/>on in due ſeaſon; But if a man would know of them how, and where to get money to raiſe this Modell of Charity; Like <hi>Diego,</hi> in the play, they anſwer, en'e where you pleaſe: you are wiſe and underſtanding men; The City is wife, thus ſay theſe Cormorants, knaw off the fleſh and throw us the bones to picke, much good may it do ye Gen<g ref="char:EOLhyphen"/>tlemen:
+<q>
+                  <l>For we are like to have no better cheere,</l>
+                  <l>Untill there come a Parliament Leap-yeare.</l>
+               </q>
+            </p>
+            <p>I heare alſo that they have in the heate of their zeale con<g ref="char:EOLhyphen"/>cluded upon an Ordinance to this effect:
+<floatingText xml:lang="eng" type="ordinance">
+                  <body>
+                     <p>ORdered by the Lords and Commons Aſſembled in Par<g ref="char:EOLhyphen"/>liament, That no Perſon or Perſons, ſhall at any time or times from the date hereof, ſuperſtitiouſly obſerve the old Holidaies of Chriſtmas, and Eaſter, either by Sermons, Games, Idleneſſe; ſhutting up of Shops, or the like; and on the other ſide, That none ſhall preſume to prophane the monethly Faſt by working, riding abroad, hunting or haw<g ref="char:EOLhyphen"/>king, or ſitting in Committee. And it is furth<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>r Ordered, that none prophane the Sabbath by hunting of Tavernes, or Alehouſes, or at any time to drinke to exceſſe and misbe<g ref="char:EOLhyphen"/>haviour, nor uncivillie to keep companie with ſuch women as proſtrate themſelves for filthy Lucre; and above all, the filthineſſe of the fleſh to ſhunne the ſin of Sodomy. And fur<g ref="char:EOLhyphen"/>ther, That none in Authority be bribed to injuſtice, but to do right equally to poore and rich, and fatherleſſe, and widdowes, that now detaine any thing from the true owner, nor raiſe himſelfe by the ruine of others, or by Sequeſtrati<g ref="char:EOLhyphen"/>on, Plundrings, Taxes, Exciſe, Free-quarter, and the like; That every man pay his debts, and do as he would be done to.</p>
+                     <p>Provided alwaies, that this Ordinance extend not to any Member of either Houſe, or their aſſiſtants.</p>
+                     <closer>
+                        <signed>Henry Blinkes Cler. Parl.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+            </p>
+            <pb n="16" facs="tcp:130635:10"/>
+            <p>Now for a paire of ſilver hinges and a haſpe for my Caſe, and ſo I will conclude; I deſire the Gentlemen of Goldſmiths Hall to beſtow ſo much Silver upon me as my Caſe wants, and their Petitioner ſhall ever pray that they may reſtore to every man his owne, or give a good account of their actions at Tiburne, where I leave them.</p>
+            <q>
+               <l>
+                  <hi>Thus Gentlemen I pray in the next place,</hi>
+               </l>
+               <l>
+                  <hi>Be pleaſed to conſider well my Caſe;</hi>
+               </l>
+               <l>
+                  <hi>'Tis yours as well as mine, and if it been't</hi>
+               </l>
+               <l>
+                  <hi>Full big enough, I'me ſure it was ſo meant;</hi>
+               </l>
+               <l>
+                  <hi>If 'tis too little, Ile order ſo the next,</hi>
+               </l>
+               <l>
+                  <hi>What now I write in ſmall, Ile write in Text.</hi>
+               </l>
+            </q>
+            <argument>
+               <head>Poſtſcript.</head>
+               <p>IF any one deſires to know who made this Caſe, let him enquire at his Lodging in Toleration ſtreet, right over againſt the <hi>Dun Cow,</hi> where he may heare further.</p>
+            </argument>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
